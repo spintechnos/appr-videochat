@@ -10,7 +10,6 @@
   },
   "scripts": {
     "test": "grunt",
-	"postinstall": "grunt uglify",
     "start": "node server.js"
   },
   "devDependencies": {
