@@ -10,8 +10,6 @@
   },
   "scripts": {
     "test": "grunt",
-	"postinstall": "grunt uglify",
-    "start": "node server.js"
   },
   "devDependencies": {
     "eslint-config-webrtc": ">=1.0.0",
