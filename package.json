@@ -35,6 +35,6 @@
     "grunt-cli": "*"
   },
   "scripts": {
-    "postinstall": "npm install -g grunt-cli bower browserify && cd project/static && npm install && cd ../.. && grunt heroku --gruntfile project/static/Gruntfile.js"
+    "postinstall": "npm install -g grunt-cli"
   }
 }
