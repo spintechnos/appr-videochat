@@ -9,7 +9,7 @@
     "url": "https://github.com/webrtc/apprtc.git"
   },
   "scripts": {
-    "test": "grunt",
+    "test": "grunt"
   },
   "devDependencies": {
     "eslint-config-webrtc": ">=1.0.0",
