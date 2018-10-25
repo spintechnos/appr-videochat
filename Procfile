@@ -1,1 +1,1 @@
-web: gunicorn appr-videochat:app
+web: gunicorn gettingstarted.wsgi --preload
