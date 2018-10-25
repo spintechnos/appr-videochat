@@ -1,1 +1,1 @@
-web: gunicorn appr-videochat.wsgi --log-file -
+web: gunicorn appr-videochat.wsgi:application --log-file -
