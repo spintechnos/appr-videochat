@@ -1,1 +1,1 @@
-web: gunicorn appr-videochat:app --preload
+web: gunicorn appr-videochat:app
